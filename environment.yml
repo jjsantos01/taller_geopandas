@@ -1,0 +1,6 @@
+name: geopandas
+dependencies:
+  - pandas
+  - geopandas
+  - matplotlib
+  - cartopy
