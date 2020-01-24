@@ -1,6 +1,9 @@
 name: geopandas
 dependencies:
+  - python
   - pandas
   - geopandas
   - matplotlib
   - cartopy
+  - descartes
+  - pysal
