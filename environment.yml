@@ -1,6 +1,6 @@
 name: geopandas
 dependencies:
-  - python
+  - python=3.7
   - pandas
   - geopandas
   - matplotlib
